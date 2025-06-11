@@ -1,7 +1,7 @@
 <!-- 標題 -->
 
   ><img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7BE45&repeat=false&width=500&lines=Hi+I+am+Kai"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7BE45&repeat=false&width=500&lines=Hi+I+am+Wayne"
     alt="Typing SVG"
 /></a>
 
