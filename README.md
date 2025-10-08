@@ -35,7 +35,7 @@
 <a href="https://www.linkedin.com/in/kevin-wen-5a227725a/" target="blank"><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/kevin-wen-5a227725a/"
+      alt="[https://www.linkedin.com/in/kevin-wen-5a227725a/](https://www.linkedin.com/in/chia-kai-wen-5a227725a/)"
       height="30"
       width="40"
   /></a>
