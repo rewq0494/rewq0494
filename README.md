@@ -32,10 +32,10 @@
 ## 📫 &nbsp;Connect with Me!
 <p align="left">
 <a href="mailto:rewq0494@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png" alt="Email" height="22" width="30" style="margin-right:50" /></a>
-<a href="https://www.linkedin.com/in/kevin-wen-5a227725a/" target="blank"><img
+<a href="[https://www.linkedin.com/in/chia-kai-wen-5a227725a/](https://www.linkedin.com/in/chia-kai-wen-5a227725a/)" target="blank"><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="[https://www.linkedin.com/in/kevin-wen-5a227725a/](https://www.linkedin.com/in/chia-kai-wen-5a227725a/)"
+      alt="[https://www.linkedin.com/in/chia-kai-wen-5a227725a/](https://www.linkedin.com/in/chia-kai-wen-5a227725a/)"
       height="30"
       width="40"
   /></a>
@@ -47,7 +47,7 @@
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=kevin&show_icons=true&locale=en"
-    alt="kevin"
+    src="https://github-readme-stats.vercel.app/api?username=wayne&show_icons=true&locale=en"
+    alt="Wayne"
   />
 </p>
