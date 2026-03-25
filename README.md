@@ -46,6 +46,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewq0494&layout=compact&theme=radical" alt="Top Langs" height="150" />
 </p>
 
+## 🐍 My Contributions Snake
+![snake gif](https://raw.githubusercontent.com/rewq0494/rewq0494/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 📫 Connect with Me!
