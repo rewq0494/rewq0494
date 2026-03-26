@@ -14,9 +14,11 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
+          # ✅ 換成圓角方塊圖示
           BLOCKS: "░▒▓█"
           TIME_RANGE: last_7_days
-          LANG_COUNT: 10
+          # ✅ 顯示前 5 名語言，讓 README 更精簡
+          LANG_COUNT: 5
           SHOW_TIME: true
-          SHOW_TOTAL: true # 修正參數名稱：原本 SHOW_TOTAL_TIME 是錯的
+          SHOW_TOTAL: true
           STOP_AT_OTHER: true
