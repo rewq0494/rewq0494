@@ -43,8 +43,7 @@
 
 ---
 
-## 📊 &nbsp;WakaTime Weekly Stats
-
+## 📊 WakaTime Weekly Stats
 ---
 
 ## 📈 GitHub Stats
