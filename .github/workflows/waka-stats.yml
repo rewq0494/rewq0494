@@ -2,9 +2,8 @@ name: WakaTime Stats
 
 on:
   schedule:
-    # 每天 UTC 00:00 (台灣時間早上 8 點) 自動更新
     - cron: "0 */6 * * *"
-  workflow_dispatch: # 允許手動執行
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -15,9 +14,9 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          BLOCKS: 🟩
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿  # 修正了圖表方塊過短的 Warning
           TIME_RANGE: last_7_days
           LANG_COUNT: 10
           SHOW_TIME: true
-          SHOW_TOTAL_TIME: true
+          SHOW_TOTAL: true # 修正參數名稱：原本 SHOW_TOTAL_TIME 是錯的
           STOP_AT_OTHER: true
