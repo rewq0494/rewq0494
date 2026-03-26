@@ -73,8 +73,6 @@ Java Properties                         ▒░░░░░░░░░░░░�
 
 ---
 
----
-
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rewq0494&show_icons=true&locale=en&theme=radical&count_private=true&title_color=F7BE45&icon_color=F7BE45" alt="Wayne's Stats" height="150" />
