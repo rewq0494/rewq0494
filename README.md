@@ -58,6 +58,17 @@
 ## 📊 &nbsp;WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 19 March 2026 - To: 26 March 2026
+
+Java                                    ███████████▓░░░░░░░░░░░░░   46.71 %
+Text                                    ███████▒░░░░░░░░░░░░░░░░░   29.50 %
+Markdown                                ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %
+YAML                                    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Java Properties                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
