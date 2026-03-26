@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7BE45&center=true&vCenter=true&repeat=false&width=500&lines=Hi+I+am+Wayne;I'm+a+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7BE45&center=true&vCenter=true&repeat=false&width=800&lines=Hi+I+am+Wayne;I'm+a+Software+Engineer" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -32,13 +32,25 @@
 
 > **Key Expertise:** Spring Boot, Spring Data JPA, Mybatis, RESTful API Design.
 
-### 🖥️ Frontend & Tools
+### 🖥️ Frontend Development
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+</p>
+
+### 🛠️ Development Tools
+<p align="left">
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-  <img src="https://img.shields.io/badge/AI_Collaboration-Powered-FF69B4?style=flat-square&logo=openai" alt="AI" height="40" />
+  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
+</p>
+
+### 🤖 AI Collaboration
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
+  <img src="https://img.shields.io/badge/Gemini_CLI-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
 </p>
 
 ---
@@ -46,25 +58,16 @@
 ## 📊 &nbsp;WakaTime Weekly Stats
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 19 March 2026 - To: 26 March 2026
-
-Java                                    ███████████▓░░░░░░░░░░░░░   46.71 %
-Text                                    ███████▒░░░░░░░░░░░░░░░░░   29.50 %
-Markdown                                ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %
-YAML                                    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-Java Properties                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-```
-
 <!--END_SECTION:waka-->
+
+---
 
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rewq0494&show_icons=true&locale=en&theme=radical" alt="Wayne's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewq0494&layout=compact&theme=radical" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rewq0494&show_icons=true&locale=en&theme=radical&count_private=true&title_color=F7BE45&icon_color=F7BE45" alt="Wayne's Stats" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rewq0494&layout=compact&theme=radical&title_color=F7BE45&icon_color=F7BE45" alt="Top Langs" height="150" />
 </p>
 
 ---
