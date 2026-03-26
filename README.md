@@ -63,7 +63,7 @@ Java Properties                         ▒░░░░░░░░░░░░�
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rewq0494&show_icons=true&locale=en&theme=radical" alt="Wayne's Stats" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rewq0494&show_icons=true&locale=en&theme=radical" alt="Wayne's Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewq0494&layout=compact&theme=radical" alt="Top Langs" height="150" />
 </p>
 
