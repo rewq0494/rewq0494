@@ -19,7 +19,7 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a> 
 </p>
 
-> **Key Expertise:** Spring Boot, Spring Data JPA, Mybatis, RESTful API Design.
+> **Key Expertise:** Java, Spring Boot, Spring Data JPA, Mybatis, RESTful API Design.
 
 ### 🖥️ Frontend Development
 <p align="left">
