@@ -49,9 +49,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 March 2026 - To: 07 April 2026
+From: 01 April 2026 - To: 08 April 2026
 
-Other                                  █████████████████▓░░░░░░░   70.56 %
+Other                                   ████████████████████░░░░░   79.39 %
 ```
 
 <!--END_SECTION:waka-->
