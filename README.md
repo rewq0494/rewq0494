@@ -49,11 +49,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 April 2026 - To: 27 April 2026
+From: 21 April 2026 - To: 28 April 2026
 
-Java                                   ████████▒░░░░░░░░░░░░░░░░   33.31 %
-Markdown                               ███████▓░░░░░░░░░░░░░░░░░   31.03 %
-Other                                  ███████▓░░░░░░░░░░░░░░░░░   30.91 %
+Other                                  ██████████░░░░░░░░░░░░░░░   40.04 %
 ```
 
 <!--END_SECTION:waka-->
