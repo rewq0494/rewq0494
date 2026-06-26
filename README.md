@@ -49,10 +49,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 June 2026 - To: 25 June 2026
+From: 19 June 2026 - To: 26 June 2026
 
-Markdown                               █████████████░░░░░░░░░░░░   51.66 %
-Other                                  ████████░░░░░░░░░░░░░░░░░   32.45 %
+Markdown                               ████████████▓░░░░░░░░░░░░   51.01 %
+Other                                  ██████░░░░░░░░░░░░░░░░░░░   23.44 %
 ```
 
 <!--END_SECTION:waka-->
