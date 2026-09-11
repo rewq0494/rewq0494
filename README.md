@@ -49,13 +49,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2026 - To: 10 September 2026
+From: 04 September 2026 - To: 11 September 2026
 
-Java                                    ██████████▓░░░░░░░░░░░░░░   42.35 %
-XML                                     ████████░░░░░░░░░░░░░░░░░   32.23 %
-TypeScript                              ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 %
-Markdown                                ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
-YAML                                    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+Other                                   ███████░░░░░░░░░░░░░░░░░░   27.43 %
 ```
 
 <!--END_SECTION:waka-->
