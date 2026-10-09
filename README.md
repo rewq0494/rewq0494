@@ -49,10 +49,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2026 - To: 08 October 2026
+From: 02 October 2026 - To: 09 October 2026
 
-Markdown                                █████████▒░░░░░░░░░░░░░░░   37.95 %
-Other                                   ████▒░░░░░░░░░░░░░░░░░░░░   17.59 %
+Markdown                                ████████▒░░░░░░░░░░░░░░░░   32.80 %
+Other                                   █████░░░░░░░░░░░░░░░░░░░░   19.77 %
 ```
 
 <!--END_SECTION:waka-->
