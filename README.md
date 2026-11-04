@@ -69,14 +69,6 @@ Other                                  ██████████▓░░�
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rewq0494&show_icons=true&locale=en&theme=radical&count_private=true&title_color=F7BE45&icon_color=F7BE45" alt="Wayne's Stats" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rewq0494&layout=compact&theme=radical&title_color=F7BE45&icon_color=F7BE45" alt="Top Langs" height="150" />
-</p>
-
----
-
 ## 📫 Connect with Me!
 <p align="left">
   <a href="mailto:rewq0494@gmail.com">
